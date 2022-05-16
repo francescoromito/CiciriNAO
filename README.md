@@ -19,10 +19,6 @@ CicirinaoPresentation.pdf
 If the song continue the execution after stopping it, please make a double click
 On the last output of the last block (in this case, output of Crouch box)
 
-//Developer's contacts
-marco.aspromonte@studio.unibo.it
-francesco.romito2@studio.unibo.it
-
 
 Thanks for your consultation of the project, 
 enjoy the Cicirinao choreography
